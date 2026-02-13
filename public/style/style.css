@@ -1,0 +1,134 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: "Plus Jakarta Sans",sans-serif;
+}
+.container{
+    flex: 1;
+}
+
+.navbar {
+    background-color: #f8f9fa; /* Light background */
+    border-bottom: 1px solid #dee2e6; /* Bottom border */
+    position: sticky; 
+    top: 0;
+    z-index: 1030; /* Stay on top */
+}
+
+/* Navbar brand */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+
+.navbar-brand i {
+    margin-right: 8px; /* Space between icon and text */
+    font-size: 1.5rem;
+}
+.navbar .container-fluid {
+  display: flex;
+  align-items: center;
+  gap: 2rem; /* space between brand and nav */
+}
+
+
+/* Navbar links */
+.navbar-nav {
+    display: flex;
+    gap: 1rem;
+    
+}
+
+.nav-link {
+    color: #222222 !important;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 0.5rem 0.75rem;
+    transition: color 0.2s;
+}
+
+.fa-compass{
+    color: #fe424d;
+    font-size: 2rem;
+}
+
+.f-info-links a{
+    text-decoration: none;
+    color: #222222;
+}
+.f-info-links a:hover{
+    text-decoration: underline;
+}
+
+.f-info{
+    display: flex;
+    height: 8rem;
+    background-color: #ebebeb;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-evenly;
+    text-align: center;
+}
+.f-info-links,.f-info-socials,.f-info-brand{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.f-info-socials i{
+    font-size: 1.2rem;
+    margin-right: 1rem;
+
+}
+.rev-card{
+    border: none !important;
+    margin-bottom: 2rem;
+}
+.card-img-top{
+    border-radius: 1rem ;
+    width: 100% ;
+    height: 18rem;
+    object-fit: cover ;
+}
+.card-body{
+    padding: 0 !important;
+}
+.card-text p{
+    font-weight: 400;
+
+}
+.listing-link{
+    text-decoration: none;
+    display: block;
+
+}
+.card-img-overlay{
+    opacity: 0;
+}
+.card-img-overlay:hover{
+    opacity: 0.2;
+    background-color: white;
+
+}
+.contain{
+    flex: 1;
+}
+.btns{
+    display: flex;
+}
+.show-card{
+    padding-left: 0;
+    padding-right: 0;
+    
+}
+#map { 
+    
+    height: 300px;
+    width: 80vh; }
+
