@@ -1,12 +1,12 @@
 # Property-Rental-Platform
 The Property Rental Platform is a web application designed to simplify the process of listing, searching, and managing rental properties. Whether you’re a landlord looking to list properties or a tenant searching for the perfect home, this platform offers an intuitive and efficient experience.
 
-Features:
-User Authentication: Secure signup and login functionality for landlords and tenants.
-Images and Maps:Images and location can be added with msp facilities.
-Property Listings: Landlords can add, edit, and manage property listings with images and detailed descriptions.
-Review and Rating:Tenants and give ratings upto 5 stars and write the review of the property.
-Search & Filter: Tenants can search properties to their prefrences.
+- **Features:**
+- **User Authentication:** Secure signup and login functionality for landlords and tenants.
+- **Images and Maps:** Images and location can be added with msp facilities.
+- **Property Listings:** Landlords can add, edit, and manage property listings with images and detailed descriptions.
+- **Review and Rating:** Tenants and give ratings upto 5 stars and write the review of the property.
+- **Search & Filter:** Tenants can search properties to their prefrences.
 
 - **Backend:**
 - **Node.js –** JavaScript runtime for the server
