@@ -8,6 +8,8 @@ The Property Rental Platform is a web application designed to simplify the proce
 - **Review and Rating:** Tenants and give ratings upto 5 stars and write the review of the property.
 - **Search & Filter:** Tenants can search properties to their prefrences.
 
+- **🧰 Tech Stack-**
+
 - **Backend:**
 - **Node.js –** JavaScript runtime for the server
 - **Express.js –** Web framework for routing and middleware
