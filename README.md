@@ -8,7 +8,7 @@ Property Listings: Landlords can add, edit, and manage property listings with im
 Review and Rating:Tenants and give ratings upto 5 stars and write the review of the property.
 Search & Filter: Tenants can search properties to their prefrences.
 
-- **Backend-
+- **Backend-**
 - **Node.js –** JavaScript runtime for the server
 - **Express.js –** Web framework for routing and middleware
 - **MongoDB –** NoSQL database (connected via mongoose)
@@ -19,11 +19,13 @@ Search & Filter: Tenants can search properties to their prefrences.
 - **express-session –** Session management
 - **connect-flash –** Flash messages for success/error notifications
 - **method-override –** Support PUT and DELETE via forms
+  
 - **Frontend-**
-- **HTML, CSS,Javascript, EJS templates –** Server-rendered pages 
+- **HTML, CSS,Javascript, EJS templates –** Server-rendered pages
+  
 - **Deployment-**
-- **Local development runs on Node.js + Express
-- **MongoDB can be local (mongodb://127.0.0.1:27017/wanderlust) or Atlas (process.env.ATLASDB_URL)
+- Local development runs on Node.js + Express
+- MongoDB can be local (mongodb://127.0.0.1:27017/wanderlust) or Atlas (process.env.ATLASDB_URL)
 
 Steps to Run Locally-
 1️⃣ Clone the Repository
