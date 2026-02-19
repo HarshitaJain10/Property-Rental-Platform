@@ -6,7 +6,7 @@ Features:<br/>
 - **Images and Maps:** Images and location can be added with msp facilities.
 - **Property Listings:** Landlords can add, edit, and manage property listings with images and detailed descriptions.
 - **Review and Rating:** Tenants and give ratings upto 5 stars and write the review of the property.
-- **Search & Filter:** Tenants can search properties to their prefrences.
+- **Comments:** Tenants can write comments about their experience.
 
 🧰 Tech Stack-<br/>
 
